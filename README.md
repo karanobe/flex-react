@@ -11,7 +11,7 @@ FLEX allows users to find gym buddies! Users can answer a few quick quesitons, i
 Once you are able to search for "flex-mates," you can send a request to connect as friends and start texting with each other!
 
 ### Features
-- Seach for locaitons using built in Google Maps search box
+- Seach for locations using built in Google Maps search box
 - Build a profile outlining your health goals
 - Upload profile photos
 - Enter preferences and filter
@@ -30,40 +30,5 @@ Privacy is important when sharing information on the internet. Users cannot see 
 - In-app communiction
 
 ## Tech Stack
-FLEX is a mobile first app using the following technologies:
+TBD
 
-- HTML/CSS
-- JavaScript (AJAX/JQuery)
-- Ruby
-- Rails (framework)
-- Heroku (server hosting)
-- Circle CI (continuous deployment)
-- Google Maps API (location)
-- Twilio API (texting)
-- Amazon Web Services (hosting profile pictures)
-- Devise Gem (registration/security)
-- Paperclip Gem (adding photos)
-
-
-## Team Norms
-
-- Don't be shitty
-- Don't fix what's not broken
-- Communicate
-  -- Overly-so
-  -- Be honest about personal needs
-  -- Be open to honest feedback
-- Push yourself and each other
-- Stay as long as you can
-- Take breaks
-- Share what you learn
-- Srong/weak pairing
-
-## Initial Goals
-
-- MVP by Sunday night - stay until it's done
-- Strong, but basic MVP
-- Rigorous testing - break shit
-  -- If you didn't build it, test it
-- Git flow
-  -- merge together
